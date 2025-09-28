@@ -19,7 +19,7 @@ const Navbar = () => {
         <div className="flex justify-between items-center h-16">
           {/* Logo */}
           <div className="flex items-center space-x-3">
-            <img src={logo} alt="Rise Impact Foundation" className="w-12 h-12 rounded-full object-contain bg-white p-1" />
+            <img src={logo} alt="Rise Impact Foundation" className="w-14 h-14 rounded-full object-contain bg-white p-1" />
             <div className="flex flex-col">
               <span className="font-bold text-lg text-primary">Rise Impact</span>
               <span className="text-sm text-muted-foreground -mt-1">Foundation</span>
